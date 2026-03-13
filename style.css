@@ -1,3 +1,29 @@
-body {
-    font-size: 15pt;
+* {
+    margin:0;
+    padding:0;
 }
+.banner-container{
+    background-color:white;
+    border-redius: 20px;
+    display:flex;
+    margin:20px;
+    
+}
+h1{
+    text-align:center;
+}
+.newsbar-sectionform{
+    display:flex;
+}
+#username{
+    padding:10px 0;
+    text-align:center;
+    border-radiu:5px 0 0 5px;}
+#password{
+     padding:10px 0;
+    text-align:center;
+    border-radiu:5px 0 0 5px;}
+.btn-Login{
+    background-color:blue;
+    color:#fff;
+    text-align:center;}
