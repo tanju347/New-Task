@@ -7,23 +7,27 @@
     border-redius: 20px;
     display:flex;
     margin:20px;
+    text-align: center;
     
 }
 h1{
     text-align:center;
 }
-.newsbar-sectionform{
-    display:flex;
-}
+
 #username{
     padding:10px 0;
     text-align:center;
-    border-radiu:5px 0 0 5px;}
+    border-radiu:5px 0 0 5px;
+gap:10px;
+    ]
 #password{
      padding:10px 0;
     text-align:center;
-    border-radiu:5px 0 0 5px;}
+    border-radiu:5px 0 0 5px;
+gap:10px;}
 .btn-Login{
+    gap:10px;
     background-color:blue;
     color:#fff;
+    padding:10px 0;
     text-align:center;}
