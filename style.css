@@ -24,6 +24,8 @@ Body {
 .main-container{
   background-color: pink;
   padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
   
   
   }
@@ -37,6 +39,7 @@ Body {
   padding: 12px;
   background-color: #2e69ec;
   color: white;
+  border: none;
 
   border-radius: 6px;
 
